@@ -5,7 +5,7 @@ A python script to download all labs from the Web Security Academy at Portswigge
 - python 3.x
 
 ## Install Required Packages
-`pip install requests beautifulsoup4 html2text urllib3` 
+`pip install requests beautifulsoup4 html2text urllib3 lxml` 
 
 # Run the script
 `python3 download-all-labs.py`
